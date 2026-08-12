@@ -1,6 +1,6 @@
 # OTT Customer Churn Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes customer churn for an OTT streaming business to identify high-risk customer segments and provide actionable retention insights.
 
@@ -12,7 +12,7 @@ The project follows an end-to-end data analytics workflow:
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 The OTT business is experiencing a significant customer retention problem.
 
@@ -29,7 +29,7 @@ The objective of this project is to answer:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The project contains three main datasets:
 
@@ -81,7 +81,7 @@ Contains customer support interaction information such as:
 
 ---
 
-## 🧹 Data Cleaning
+##  Data Cleaning
 
 Data quality issues were identified and handled before analysis.
 
@@ -110,7 +110,7 @@ These values were retained as anomalies because there was no reliable source val
 
 ---
 
-## 📈 Exploratory Data Analysis
+##  Exploratory Data Analysis
 
 The EDA focused on identifying patterns associated with customer churn.
 
@@ -180,7 +180,7 @@ Similarly, CSAT groups showed relatively similar churn rates without a strong co
 
 ---
 
-## 💡 Key Business Insights
+##  Key Business Insights
 
 The analysis identified several important observations:
 
@@ -210,7 +210,7 @@ Churned customers have a lower median CLTV than active customers.
 
 ---
 
-## 🎯 Business Recommendations
+##  Business Recommendations
 
 ### 1. Prioritize Monthly Customers
 
@@ -234,7 +234,7 @@ Use CLTV together with churn risk to prioritize customers for retention activiti
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Python
 - Pandas
@@ -249,7 +249,7 @@ Use CLTV together with churn risk to prioritize customers for retention activiti
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 OTT-Customer-Churn-Analysis/
